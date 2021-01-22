@@ -21,12 +21,14 @@ The hypothesis says that regardless of the initial value of c0, it will always g
 
 ---
 Sample input: 15
-
+<details>
+<summary>
 Expected output:
 <br/>46
 <br/>23
 <br/>70
 <br/>35
+</summary>
 <br/>106
 <br/>53
 <br/>160
@@ -41,6 +43,7 @@ Expected output:
 <br/>2
 <br/>1
 <br/>steps = 17
+</details>
 
 ---
 
@@ -56,12 +59,13 @@ Expected output:
 ---
 
 Sample input: 1023
-
-Expected output:
+<details>
+<summary>Expected output:
 <br/>3070
 <br/>1535
 <br/>4606
 <br/>2303
+</summary>
 <br/>6910
 <br/>3455
 <br/>10366
@@ -121,10 +125,9 @@ Expected output:
 <br/>2
 <br/>1
 <br/>steps = 62
+</details>
 
-<br/>
-<br/>
-<br/>
+---
 
 ## Here my solution
 ```Python
