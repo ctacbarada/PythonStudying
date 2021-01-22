@@ -127,7 +127,7 @@ Expected output:
 <br/>
 
 ## Here my solution
-```
+```Python
 c0 = int(input('Enter a any non-negative and non-zero integer number:'))
 counter = 0
 while c0 != 1:
